@@ -14,11 +14,11 @@ public class TestGraficar {
 		
 		
 	Graficador graficador = new Graficador ();
-	Figura figura = new Figura("Circulo", "verde" );
+//	Figura figura = new Figura("Circulo", "verde" );
 	Cuadrado cuadrado = new Cuadrado ("Cuadrado", "rojo", 5);
 	Rectangulo rectangulo = new Rectangulo ("Rectangulo", "morado", 2,3);
 		
-	graficador.graficar(figura);
+//	graficador.graficar(figura);
 	graficador.graficar(cuadrado);
 	graficador.graficar(rectangulo);
 
