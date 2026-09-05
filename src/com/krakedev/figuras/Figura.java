@@ -18,6 +18,14 @@ public class Figura {
 		this.color = color;
 	}
 	
+	public int calcularPerimetro(){
+		return 0;
+		}
+	
+	public double calcularArea(){
+		return 0;
+		}
+	
 	
 	
 	public String getNombre() {
