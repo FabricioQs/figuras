@@ -20,8 +20,7 @@ public abstract class Figura {
 		this.color = color;
 	}
 	
-	public abstract int calcularArea();
-	
+	public abstract double calcularArea();
 	public abstract int calcularPerimetro();
 	
 	
